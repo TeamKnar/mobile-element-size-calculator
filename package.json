@@ -1,0 +1,15 @@
+{
+  "name": "mobile-element-size-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "divider.js",
+  "scripts": {
+    "start": "node divider.js",
+    "nexe": "node nexe.js"
+  },
+  "author": "www.knar.kr",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "nexe": "^4.0.0-beta.18"
+  }
+}
